@@ -11,7 +11,7 @@
 
 <style scoped>
   .mainButton {
-    margin-top: 28px;
+    margin-top: 26px;
   }
 </style>
 
